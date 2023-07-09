@@ -1,0 +1,9 @@
+vev - copia
+venv
+*.pyc
+*~
+__pycache__
+db.sqlite3
+/src/static
+.DS_Store
+Lib/
